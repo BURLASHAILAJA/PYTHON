@@ -1,2 +1,11 @@
 A function is a block of code which only runs when it is called. Funtion is used to perform a special task in a program.
 We can pass data, known as parameters, into a function.
+Creating a Function
+In Python a function is defined using the def keyword:
+syntax:
+def function_name():
+Example:
+def fun():
+  print("Good")
+fun()
+Output:Good.
